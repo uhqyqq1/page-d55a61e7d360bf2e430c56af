@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c0c8007d1f627795da687979",
+  "owner": "uhqyqq1",
+  "repo": "page-d55a61e7d360bf2e430c56af",
+  "title": "有恒云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d55a61e7d360bf2e430c56af",
+      "a": "有恒云",
+      "b": "2027官方最新地址导航",
+      "entity": "有恒云",
+      "brand": "有恒云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "37298d79064b4ff0110cf36a17592213cfc1423a30f4fd2f1212017f30e2d5b9",
+      "content": {
+        "primary_entity": "有恒云",
+        "keyword1": "有恒云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，有恒云提供基础版、旗舰版与团队版三档海外加速订阅，月流量从100GB到1000GB，设备数从3台到20台，年付价格为月付十倍。日常办公、流媒体与游戏加速可根据设备数量和流量需求挑选，客户端支持在常见桌面与移动系统上配置订阅。",
+          "AI_HERO_SUBTITLE": "有恒云海外加速订阅",
+          "AI_HERO_INTRO": "有恒云为需要稳定海外网络连接的用户提供多档加速订阅，按流量、在线设备数和线路类型区分，覆盖个人与团队使用场景。",
+          "AI_VISUAL_TITLE": "有恒云加速订阅",
+          "AI_HIGHLIGHT_1": "基础版月付15元含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版支持5台设备与IPLC专线",
+          "AI_HIGHLIGHT_3": "团队版20台设备与1000GB流量",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURES_INTRO": "从套餐额度、设备数量和订阅周期三个角度了解有恒云各档服务的区别。",
+          "AI_FEATURE_TITLE_1": "流量按档划分",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，选择时结合日常用量评估。",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TEXT_2": "3台、5台、20台三档在线数，适合个人手机电脑或小型团队同时使用。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "三档套餐年付均为月付十倍，一次性支付可减少续费操作。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "有恒云订阅可按设备类型选用对应客户端，桌面端与移动端分别配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻量个人使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作场景。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "有恒云订阅从选档到连接节点，涉及套餐确认、设备匹配和客户端订阅导入。",
+          "AI_STEP_TITLE_1": "选择订阅档位",
+          "AI_STEP_TEXT_1": "根据常用设备数量和月流量需求，在基础版、旗舰版与团队版之间确定一档。",
+          "AI_STEP_TITLE_2": "确认设备与客户端",
+          "AI_STEP_TEXT_2": "按所用设备系统对照有恒云支持的客户端名称与版本，选取匹配的一项。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照对应客户端的订阅导入说明完成配置，随后连接节点开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选择合适的有恒云订阅",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求挑选套餐，完成配置后即可体验海外加速。",
+          "AI_FAQ_TITLE": "有恒云常见问题",
+          "AI_FAQ_QUESTION_1": "有恒云基础版适合什么场景？",
+          "AI_FAQ_ANSWER_1": "基础版每月提供100GB流量，支持3台设备同时在线，适合日常浏览、轻度流媒体与少量设备使用的用户。",
+          "AI_FAQ_QUESTION_2": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月300GB流量，支持5台设备，并包含IPLC专线游戏加速优化、全节点流媒体解锁和7x24优先工单支持。",
+          "AI_FAQ_QUESTION_3": "团队版能满足多少人使用？",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量，支持20台设备同时在线，并提供VIP专属高带宽节点、企业定制路由和专属客户经理服务。",
+          "AI_FAQ_QUESTION_4": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付150元、旗舰版年付350元、团队版年付850元，相比按月支付可减少约两个月的费用。",
+          "AI_FAQ_QUESTION_5": "如何在设备上配置有恒云订阅？",
+          "AI_FAQ_ANSWER_5": "先根据设备类型选择对应客户端，确认系统版本满足要求，再依照客户端文档导入订阅信息即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6s0yrd.cn",
+    "host": "6s0yrd.cn"
+  },
+  "file_hashes": {
+    "index.html": "951a16ee7a5a1b67fe038805934619e5645c6297d56b3261cd6baecd5c68d668",
+    "sitemap.xml": "bece4598719c8670e1bad01df92334918f577843cbf8b50947d5d7839edff0a5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1245a1eac01713abc07d3b459589360503dd9556cf4c7ce1be708dd73867114a",
+    "robots.txt": "028cab029d9f507a3aeb6af5502d319a95ba339929e5b86d7f7ab1bd264b8837",
+    "2732d3de72f795a4fd92c04f4a2faf84.txt": "ccf34fc35bdcd7813e25a36a60cdb1b6b859dbcf78ccd94948018b593a937b02"
+  },
+  "revision": "9d116448e633f1e5c2d658805a6ceb58885dab51314261b40152cc27a517779a"
+}
